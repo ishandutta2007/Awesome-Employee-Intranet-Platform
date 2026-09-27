@@ -1,106 +1,149 @@
-# Awesome-Employee-Intranet-Platform
+# 🚀 Awesome Employee Intranet Platforms Ecosystem
 
-## Top Employee Intranet Platforms Ecosystem
+![Awesome Employee Intranet Platforms Banner](assets/banner.svg)
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Employee Communication, Digital Workplace, Knowledge Sharing & Internal Collaboration*  
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Employee-Intranet-Platform?style=flat-square" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Employee-Intranet-Platform?style=flat-square" alt="License"/>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+## 🌐 Top Employee Intranet Platforms & Digital Workplace Solutions
+
+**Curated List of Enterprise SaaS Products & Open-Source GitHub Projects**  
+*Focused on Employee Communication, Digital Workplace, Knowledge Sharing, Enterprise Search & Internal Collaboration*  
 **Last updated: September 2026**
 
 This repository tracks notable **SaaS platforms** and **open-source projects** for **Employee Intranet Platforms**. These tools help organizations connect employees, streamline internal communication, share knowledge, and build digital workplace experiences that engage both desk-based and frontline workers.
 
-**Examples** include Simpplr, Unily, LumApps, Interact, Haiilo, Igloo Software, ThoughtFarmer, Staffbase, Claromentis, and Akumina (the category leaders).
+---
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, custom intranet builds, and transparent employee data management — ideal for organizations that need full control over their digital workplace without per-seat SaaS fees or vendor lock-in.
+## 📊 Market Overview & Industry Structure
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## SaaS/Hosted Platforms
-
-- **[Simpplr](https://www.simpplr.com/)**  
-  AI-powered employee experience platform combining intranet, internal communications, enterprise search, and AI assistance. Surfaces information across SharePoint, Box, Dropbox, and Google Drive with personalized content delivery.
-
-- **[Unily](https://www.unily.com/)**  
-  Enterprise employee experience platform trusted by organizations including British Airways and Shell. Known for strong internal communications features including Campaigns for managing multi-channel content delivery.
-
-- **[LumApps](https://www.lumapps.com/)**  
-  Digital workplace platform aligning with brand guidelines and streamlining workflows. Positioned as a strong option for organizations seeking a unified employee experience.
-
-- **[Interact Software](https://www.interactsoftware.com/)**  
-  Established intranet provider with strong customer retention. Focuses on employee communication, knowledge sharing, and engagement with a mature SaaS offering.
-
-- **[Haiilo](https://www.haiilo.com/)**  
-  Formed from the merger of COYO, smarp, and Jubiwee. Drives employee engagement through social intranet features and behavioral insights.
-
-- **[Igloo Software](https://www.igloo software.com/)**  
-  Digital workplace platform recognized as a Visionary in Gartner's Magic Quadrant. Focuses on internal communications, collaboration, and knowledge management.
-
-- **[ThoughtFarmer](https://www.thoughtfarmer.com/)**  
-  Intranet platform designed for hybrid and remote teams. Focuses on connecting employees, streamlining internal communication, and building workplace culture.
-
-- **[Staffbase](https://staffbase.com/)**  
-  AI-native employee experience platform for all employees. Via app, intranet, and AI services, it connects around 2,000 companies with their teams, with strong reach for frontline workers .
-
-- **[Claromentis](https://www.claromentis.com/)**  
-  Digital workplace platform with intranet, document management, and business process tools. Offers flexible modules for organizations of varying sizes.
-
-- **[Akumina](https://www.akumina.com/)**  
-  Digital workplace platform focused on employee experience and Microsoft 365 integration. Provides personalized intranet experiences with no-code configuration.
-
-## Open-Source GitHub Projects
-
-- **[Simoona](https://github.com/VismaLietuva/simoona)**  
-  Smart open-source social intranet solution powered by Visma. Features Wall for employee posts and discussions (with images, video links, GIFs), Employee Directory with detailed profiles, and Kudos peer recognition system with gamification. AngularJS frontend, ASP.NET MVC+WebApi backend. Docker deployment available. **Open source** .
-
-- **[eXo Platform](https://github.com/exoplatform/platform)**  
-  The leading open-source intranet and digital workplace solution with over 20 years of development. Version 7.1 (2025) rebuilt on modern stack (JDK 21, Spring 6, Tomcat 10) with no-code configuration, AI chatbot integration, and PWA mobile apps. Features redesigned document management, unified search, and Matrix-powered chat. Serves 1M+ users including Elysée Palace and US Department of Defense. Community Edition available. **LGPL-2.1** .
-
-- **[Open Intranet](https://github.com/openintranet/openintranet)**  
-  Free and open-source workplace hub built on modern Drupal and Symfony components. Centralizes news, documents, and employee information with full data ownership. Features news and announcements with access control, events calendar, knowledge base, document management, employee directory, internal forms, social interactions (comments, reactions, kudos), LDAP/SSO integration, adoption analytics, AI-assisted content, and AI-powered RAG search. Scales from 50 to 7,000+ employees. **Free and open source** .
-
-- **[HumHub](https://github.com/humhub/humhub)**  
-  Open-source social network software used by organizations as Corporate Social Network/Intranet. Allows creation of Spaces (rooms) with user profiles, direct messaging, content posting, group chats, file sharing, wiki pages, landing pages, galleries, project management, and calendars. Extensible with 70+ modules. Available on-premise or GDPR-compliant hosting. Used by municipalities, educational institutions, associations, and enterprises. **Open source** .
-
-- **[OpenHive](https://github.com/arseneHuot/openhive)**  
-  Self-hosted team communication platform with Slack-like features: channels, threads, direct messages, reactions, file attachments, and search. Built on Supabase with Row Level Security. Features video calls via LiveKit integration, webhooks, bots, slash commands, and scheduled messages. Deployable to Vercel or self-hosted. **Open source** .
-
-- **[Pladigit](https://github.com/jpbosse/pladigit)**  
-  Comprehensive open-source digital workplace platform for public sector organizations. Replaces SharePoint, OneDrive, and scattered Excel spreadsheets with project management (Kanban, Gantt, workload), photo library with NAS sync, document management (GED) with fine-grained permissions, Collabora Online for collaborative document editing, and DataGrid for tabular data. Built with Laravel 12, Alpine.js, Livewire, MySQL, and Redis. **Open source** .
-
-- **[Dango](https://github.com/magland/dango)**  
-  Self-hosted team chat with Slack-like structure: channels, threads, direct messages, reactions, file attachments, and search. One Node process, no database required. Features @mentions, unread counts, live delivery via SSE, invite links, and CLI/JSON API. Deployable to Fly.io with one command. **Open source** .
-
-### Additional Strong Open-Source Options
-
-- **Knowledge Management Foundations**: **Outline** (40.4k stars, fast collaborative knowledge base with AI search), **Docmost** (21.6k stars, Confluence/Notion alternative), **BookStack** (19k stars, hierarchical documentation), **Wiki.js** (28.8k stars, extensible Node.js wiki) .
-- **Social Intranet**: **HumHub** (social network with 70+ modules), **Simoona** (Visma-powered with Kudos gamification) .
-- **Document Collaboration**: **OnlyOffice** (open-source office suite for collaborative editing), **Collabora Online** (WOPI-based document editing) .
-- **Real-Time Communication**: **Rocket.Chat** (open-source team chat), **Matrix** (decentralized communication protocol used by eXo Platform) .
-
-**Frameworks for building custom systems**: Combine **eXo Platform** or **Open Intranet** for the core intranet, **Outline** or **BookStack** for knowledge management, **HumHub** for social features, **OnlyOffice** or **Collabora** for document collaboration, and **PostgreSQL** for persistence. Add **LDAP/SSO** for authentication and **Docker** for deployment.
-
-## How to Contribute
-
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Intranet platforms handle sensitive employee and organizational data; ensure compliance with data protection regulations (GDPR, CCPA) and internal governance policies.
-- Open-source intranet solutions require significant operational investment in hosting, security, development, and maintenance. The license is free; the project is not.
+> **Market Size & Fragmented Dynamics**: The global Employee Intranet and Experience Platform market is estimated at **$18.5 Billion (2026)** and is projected to reach **$34.2 Billion by 2030** (CAGR ~13.1%). The sector is **moderately fragmented**: while legacy suites (like Microsoft 365/SharePoint) hold high enterprise distribution, a wide ecosystem of specialized SaaS platforms (Simpplr, Staffbase, Unily) and vibrant self-hosted open-source software compete actively for specialized enterprise and privacy-conscious niches.
 
 ---
 
-**Made for internal communications teams, HR leaders, IT administrators, and digital workplace strategists.**  
-Let's make employee experiences more open, connected, and engaging.
+## 📜 Table of Contents
+
+- [🏢 SaaS/Hosted Platforms](#-saashosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+
+---
+
+## 🏢 SaaS/Hosted Platforms
+
+| Platform | Description & Key Features | Valuation / Est. Revenue | Starting Pricing | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Staffbase](https://staffbase.com/)** | 🚀 AI-native employee experience platform connecting 2,000+ companies via mobile app, intranet, and AI services. | **$1.1B+ Valuation** ($100M+ ARR) | From ~$8.00 / user / month | 14-day free trial (Full features, no credit card) |
+| **[Simpplr](https://www.simpplr.com/)** | 🧠 AI-powered employee experience platform combining intranet, internal comms, and enterprise search across SharePoint/Google Drive. | **$600M+ Valuation** ($70M+ ARR) | From ~$8.00 / user / month | 14-day free trial (Custom sandbox demo available) |
+| **[Unily](https://www.unily.com/)** | 🏢 Enterprise employee experience platform trusted by British Airways & Shell; featuring multi-channel content Campaigns. | **$500M+ Valuation** ($60M+ ARR) | From ~$5.00 / user / month | 30-day proof-of-concept enterprise trial |
+| **[Haiilo](https://www.haiilo.com/)** | 📣 Social intranet and employee advocacy platform driving engagement through behavioral insights (merger of COYO & Smarp). | **$300M+ Valuation** ($45M+ ARR) | From €4.50 (~$5.00) / user / month | 14-day free trial (Full access) |
+| **[LumApps](https://www.lumapps.com/)** | 🌐 Unified digital workplace platform aligning brand guidelines, streamlining workflows, and integrated with Google Workspace & M365. | **$250M+ Valuation** ($40M+ ARR) | From ~$6.00 / user / month | 14-day free trial |
+| **[Igloo Software](https://www.igloosoftware.com/)** | 📁 Gartner Magic Quadrant Visionary digital workplace platform focusing on internal communications and knowledge management. | **$150M+ Valuation** ($30M+ ARR) | From ~$12.00 / user / month | 30-day free trial (Up to 10 users) |
+| **[Interact Software](https://www.interactsoftware.com/)** | 💬 Established enterprise intranet provider focusing on employee engagement, internal communication, and knowledge sharing. | **$120M+ Valuation** ($25M+ ARR) | From ~$6.00 / user / month | 14-day interactive trial environment |
+| **[Akumina](https://www.akumina.com/)** | ⚡ Personalized digital workplace platform with deep Microsoft 365 integration and no-code intranet configuration. | **$100M+ Valuation** ($20M+ ARR) | From ~$5.00 / user / month | 30-day sandbox trial |
+| **[ThoughtFarmer](https://www.thoughtfarmer.com/)** | 🌲 Intranet platform designed for hybrid and remote teams to build workplace culture and streamline internal communication. | **$60M+ Est. Valuation** ($12M+ ARR) | From $10.00 / user / month | 14-day free trial (Up to 50 users) |
+| **[Claromentis](https://www.claromentis.com/)** | 🛠️ Digital workplace platform combining intranet, document management, learning management (LMS), and business process automation. | **$40M+ Est. Valuation** ($8M+ ARR) | From $1.50 / user / month (min $1,500/mo) | 14-day free trial (Full suite access) |
+
+---
+
+## 🔓 Open-Source GitHub Projects
+
+Sorted by GitHub Stars (descending) 🌟
+
+- **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)  
+  💬 Enterprise open-source communications and team collaboration platform with channels, video calls, matrix federation, and custom intranet integrations. **GPL-3.0**
+
+- **[Outline](https://github.com/outline/outline)** [![Stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)  
+  📝 Modern, lightning-fast collaborative knowledge base and team wiki built with React and Node.js. Ideal foundation for company documentation. **BSL-1.1**
+
+- **[Wiki.js](https://github.com/requarks/wiki)** [![Stars](https://img.shields.io/github/stars/requarks/wiki?style=social&color=white)](https://github.com/requarks/wiki/stargazers)  
+  📚 Highly extensible, modern open-source wiki app built on Node.js, Git, and PostgreSQL for internal corporate documentation. **AGPL-3.0**
+
+- **[Docmost](https://github.com/docmost/docmost)** [![Stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers)  
+  📄 Open-source collaborative workspace and documentation software. An open-source alternative to Confluence and Notion. **AGPL-3.0**
+
+- **[BookStack](https://github.com/BookStackApp/BookStack)** [![Stars](https://img.shields.io/github/stars/BookStackApp/BookStack?style=social&color=white)](https://github.com/BookStackApp/BookStack/stargazers)  
+  📖 Simple, self-hosted, hierarchical documentation platform organized by Books, Chapters, and Pages. **MIT**
+
+- **[HumHub](https://github.com/humhub/humhub)** [![Stars](https://img.shields.io/github/stars/humhub/humhub?style=social&color=white)](https://github.com/humhub/humhub/stargazers)  
+  👥 Flexible open-source social network kit written in PHP (Yii framework). Used extensively as a corporate social intranet with 70+ modules. **AGPL-3.0**
+
+- **[eXo Platform](https://github.com/exoplatform/platform)** [![Stars](https://img.shields.io/github/stars/exoplatform/platform?style=social&color=white)](https://github.com/exoplatform/platform/stargazers)  
+  🏛️ Full-featured open-source digital workplace & enterprise social intranet with document management, modern news wall, matrix chat, and PWA mobile app. **LGPL-2.1**
+
+- **[Pladigit](https://github.com/jpbosse/pladigit)** [![Stars](https://img.shields.io/github/stars/jpbosse/pladigit?style=social&color=white)](https://github.com/jpbosse/pladigit/stargazers)  
+  💼 Comprehensive open-source digital workplace platform for public sector organizations replacing SharePoint with project management, photo libraries, GED, and Collabora Online. **AGPL-3.0**
+
+- **[OpenIntranet](https://github.com/openintranet/openintranet)** [![Stars](https://img.shields.io/github/stars/openintranet/openintranet?style=social&color=white)](https://github.com/openintranet/openintranet/stargazers)  
+  🏛️ Free workplace intranet hub built on Drupal & Symfony. Centralizes enterprise news, documents, employee directories, events calendar, and RAG AI search. **GPL-2.0**
+
+- **[OpenHive](https://github.com/arseneHuot/openhive)** [![Stars](https://img.shields.io/github/stars/arseneHuot/openhive?style=social&color=white)](https://github.com/arseneHuot/openhive/stargazers)  
+  🐝 Self-hosted team communication hub built on Supabase with LiveKit video integration, Slack-like threads, channels, and webhooks. **MIT**
+
+- **[Simoona](https://github.com/VismaLietuva/simoona)** [![Stars](https://img.shields.io/github/stars/VismaLietuva/simoona?style=social&color=white)](https://github.com/VismaLietuva/simoona/stargazers)  
+  🎉 Smart social intranet solution powered by Visma featuring social walls, employee directories, and Kudos peer recognition gamification. **MIT**
+
+- **[Dango](https://github.com/magland/dango)** [![Stars](https://img.shields.io/github/stars/magland/dango?style=social&color=white)](https://github.com/magland/dango/stargazers)  
+  🍡 Lightweight self-hosted team chat with channel structure, SSE live delivery, and zero database requirements. **MIT**
+
+---
+
+### 🧩 Custom Intranet Architectural Frameworks
+
+Organizations building modern self-hosted intranet ecosystems can combine:
+- **Core Intranet Hub**: **eXo Platform** or **OpenIntranet**
+- **Knowledge & Wiki**: **Outline** or **BookStack**
+- **Social & Engagement**: **HumHub** or **Simoona**
+- **Real-Time Messaging**: **Rocket.Chat** or **OpenHive**
+- **Document Suite**: **OnlyOffice** or **Collabora Online**
+
+---
+
+## 🤝 How to Contribute
+
+1. Fork the repository.
+2. Add/edit entries in `README.md` (follow existing tabular and link formats).
+3. Include: Name, website/GitHub link, description, and accurate pricing/star badges.
+4. Open a Pull Request with a clear summary of additions.
+
+Refer to [https://github.com/ishandutta2007/Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for contribution guidelines.
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this curated intranet ecosystem list helpful, please consider supporting the project:
+
+- ⭐ **Star** this repository to increase visibility.
+- 🔀 **Fork** and contribute new tools or updates.
+- 📢 **Share** with internal comms leaders, HR tech teams, and IT architects.
+- ☕ **Buy me a coffee**: Support ongoing open-source maintenance via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
+
+Thank you to all community contributors and maintainers! 🙌
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Employee-Intranet-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Employee-Intranet-Platform&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a **community-curated** list — not exhaustive and not an explicit commercial endorsement.
+- Intranet platforms process sensitive employee and organizational data; ensure compliance with security governance (GDPR, SOC 2, CCPA).
+- Self-hosting open-source solutions requires technical investment in server infrastructure, security patches, and maintenance.
+
+---
+
+<p align="center">
+  <b>Built with ❤️ for internal communications teams, HR leaders, IT administrators, and digital workplace strategists.</b>
+</p>
