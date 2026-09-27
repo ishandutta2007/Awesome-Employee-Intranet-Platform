@@ -55,7 +55,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 ## 🔓 Open-Source GitHub Projects
 
-Sorted by GitHub Stars (descending) 🌟
+Sorted by GitHub_Stars (descending) 🌟
 
 - **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)  
   💬 Enterprise open-source communications and team collaboration platform with channels, video calls, matrix federation, and custom intranet integrations. **GPL-3.0**
@@ -110,7 +110,7 @@ Organizations building modern self-hosted intranet ecosystems can combine:
 
 1. Fork the repository.
 2. Add/edit entries in `README.md` (follow existing tabular and link formats).
-3. Include: Name, website/GitHub link, description, and accurate pricing/star badges.
+3. Include: Name, website/GitHub link, description, and accurate pricing/Stars_Badges.
 4. Open a Pull Request with a clear summary of additions.
 
 Refer to [https://github.com/ishandutta2007/Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for contribution guidelines.
